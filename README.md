@@ -29,8 +29,6 @@ Aplikasi ini dibangun dengan **HTML, CSS, dan JavaScript** untuk melatih keteram
 ┣ 📜 index.html
 ┣ 📜 README.md
 
-yaml
-Salin kode
 
 ---
 
