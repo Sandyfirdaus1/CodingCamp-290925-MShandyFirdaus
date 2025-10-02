@@ -20,14 +20,15 @@ Aplikasi ini dibangun dengan **HTML, CSS, dan JavaScript** untuk melatih keteram
 - ✅ Validasi input agar form tidak kosong.  
 ---
 
-## 📂 Struktur Folder
-📦 CodingCamp-290925-MShandyFirdaus
-┣ 📂 css
-┃ ┗ 📜 style.css
-┣ 📂 js
-┃ ┗ 📜 script.js
-┣ 📜 index.html
-┣ 📜 README.md
+
+```bash
+CodingCamp-290925-MShandyFirdaus
+ ┣ 📂 css
+ ┃ ┗ 📜 style.css
+ ┣ 📂 js
+ ┃ ┗ 📜 script.js
+ ┣ 📜 index.html
+ ┗ 📜 README.md
 
 
 ---
